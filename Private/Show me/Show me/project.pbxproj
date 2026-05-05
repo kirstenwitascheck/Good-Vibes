@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+/* Begin PBXBuildFile section */
+		1234567890ABCDEF1234567890ABCDEF in Sources */ = {isa = PBXBuildFile; fileRef = 1234567890ABCDEF1234567890ABCDE0; };
+		1234567890ABCDEF1234567890ABCDE1 in Resources */ = {isa = PBXBuildFile; fileRef = 1234567890ABCDEF1234567890ABCDE2; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1234567890ABCDEF1234567890ABCDE0 /* CrowdDisplayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrowdDisplayApp.swift; sourceTree = "<group>"; };
+		1234567890ABCDEF1234567890ABCDE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXProject section */
+		1234567890ABCDEF1234567890ABCDE3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 1234567890ABCDEF1234567890ABCDE4;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1234567890ABCDEF1234567890ABCDE5;
+			productRefGroup = 1234567890ABCDEF1234567890ABCDE6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1234567890ABCDEF1234567890ABCDE7,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1234567890ABCDEF1234567890ABCDE8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1234567890ABCDEF1234567890ABCDE1,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1234567890ABCDEF1234567890ABCDE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1234567890ABCDEF1234567890ABCDEF in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+	};
+	rootObject = 1234567890ABCDEF1234567890ABCDE3;
+}
